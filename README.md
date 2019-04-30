@@ -1,3 +1,3 @@
-# PyStuff
+# Hela
 
-Simple Crawler: Python weblink crawler with Link caching (will add data caching later)
+Simple Weblink crawler written in python with link caching!
